@@ -1,5 +1,5 @@
-# GitHub Credential Rotation CI Fixture
+# Rotate GitHub Tokens CI Fixture
 
-A fixture repo for testing [ghalactic/github-credential-rotation-action].
+A fixture repo for testing [ghalactic/rotate-github-tokens].
 
-[ghalactic/github-credential-rotation-action]: https://github.com/ghalactic/github-credential-rotation-action
+[ghalactic/rotate-github-tokens]: https://github.com/ghalactic/rotate-github-tokens
