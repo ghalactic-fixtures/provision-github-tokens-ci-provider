@@ -1,5 +1,5 @@
-# Rotate GitHub Tokens CI Fixture
+# Provision GitHub Tokens CI Fixture
 
-A fixture repo for testing [ghalactic/rotate-github-tokens].
+A fixture repo for testing [ghalactic/provision-github-tokens].
 
-[ghalactic/rotate-github-tokens]: https://github.com/ghalactic/rotate-github-tokens
+[ghalactic/provision-github-tokens]: https://github.com/ghalactic/provision-github-tokens
